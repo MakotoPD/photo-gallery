@@ -1,6 +1,6 @@
 {
   "name": "nuxt-photos-gallery",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pohoto gallery for nuxt 3",
   "repository": "makotopd/photos-gallery",
   "license": "MIT",
