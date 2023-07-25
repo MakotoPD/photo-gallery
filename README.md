@@ -52,6 +52,8 @@ export default defineNuxtConfig({
 
 You can edit numbers of rows using `rows=5` in `<Nuxt-gallery rows="5">` minimum is **3**.
 
+if you want your gallery to be rounded use `rounded="true"`
+
 
 That's it! You can now use Nuxt-Photos-Gallery in your Nuxt app ✨
 
