@@ -6,9 +6,9 @@
 [![Nuxt][nuxt-src]][nuxt-href]
 
 ## Features
-
 <!-- Highlight some of the features your module provide here -->
-- &nbsp;Gallery in grid
+- Nuxt3 ready
+- Gallery in grid
 
 ## Quick Setup
 
