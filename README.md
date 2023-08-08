@@ -90,7 +90,7 @@ npm run release
 [npm-version-href]: https://www.npmjs.com/package/nuxt-photos-gallery
 
 [npm-pack-version-src]: https://img.shields.io/npm/v/nuxt-photos-gallery?style=flat&labelColor=18181B&color=28CF8D&label=Package%20verison
-[npm-pack-verson-href]: https://www.npmjs.com/package/nuxt-photos-gallery
+[npm-pack-version-href]: https://www.npmjs.com/package/nuxt-photos-gallery
 
 [npm-downloads-src]: https://img.shields.io/npm/dw/nuxt-photos-gallery?style=flat&labelColor=18181B&color=28CF8D
 [npm-downloads-href]: https://www.npmjs.com/package/nuxt-photos-gallery
