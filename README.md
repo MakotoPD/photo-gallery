@@ -87,7 +87,7 @@ npm run release
 [npm-version-src]: https://img.shields.io/npm/v/npm.svg?logo=npm&style=flat&colorA=18181B&colorB=28CF8D
 [npm-version-href]: https://www.npmjs.com/package/nuxt-photos-gallery
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-photos-gallery?style=flat&labelColor=18181B&color=28CF8D
+[npm-downloads-src]: https://img.shields.io/npm/dw/nuxt-photos-gallery?style=flat&labelColor=18181B&color=28CF8D
 [npm-downloads-href]: https://www.npmjs.com/package/nuxt-photos-gallery
 
 [license-src]: https://img.shields.io/npm/l/nuxt-photos-gallery?style=flat&colorA=18181B&colorB=28CF8D
