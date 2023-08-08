@@ -1,9 +1,11 @@
 # Nuxt photos gallery
 
+[![pack version][npm-pack-version-src]][npm-pack-version-href]
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
+
 
 ## Features
 <!-- Highlight some of the features your module provide here -->
@@ -86,6 +88,9 @@ npm run release
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/npm.svg?logo=npm&style=flat&colorA=18181B&colorB=28CF8D
 [npm-version-href]: https://www.npmjs.com/package/nuxt-photos-gallery
+
+[npm-pack-version-src]: https://img.shields.io/npm/v/nuxt-photos-gallery?style=flat&labelColor=18181B&color=28CF8D&label=Package%20verison
+[npm-pack-verson-href]: https://www.npmjs.com/package/nuxt-photos-gallery
 
 [npm-downloads-src]: https://img.shields.io/npm/dw/nuxt-photos-gallery?style=flat&labelColor=18181B&color=28CF8D
 [npm-downloads-href]: https://www.npmjs.com/package/nuxt-photos-gallery
